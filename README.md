@@ -35,7 +35,7 @@ The following **required** functionality is completed:
 I would like to build an app where I could store all my passwords securely localy, instead of using only services. This app would have a GUI where the user would be able to see all passwords stored by websites or company names and in order to access any of the passwords, the user would have to enter a special code. Additionally, the implemented system would have some type of password security to protect all passwords from being stolen.
 ## Notes
 
-Describe any challenges encountered while building the app.
+The only challenge I experienced while using interecting with swift/xcode was navigating through the app, but was able to overcome it very fast!
 
 ## License
 
